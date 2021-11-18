@@ -14,5 +14,5 @@
         echo "<a href=\"./info\">Cliquez ici<\a>";
     ?>
     
-</body>
+</body>er
 </html>
